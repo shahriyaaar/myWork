@@ -8,6 +8,7 @@
     <title>shahrair test</title>
 </head>
 <body>
-<p> sallam </p>
+<p> sallam master </p>
+<a href=""> clicked </a>
 </body>
 </html>
