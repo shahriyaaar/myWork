@@ -12,6 +12,5 @@
 <p> sallam master </p>
 <a href=""> clicked </a>
 
->>>>>>> developer
 </body>
 </html>
