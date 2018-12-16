@@ -10,7 +10,7 @@
 <body>
 
 <p> sallam master </p>
-<a href=""> click developer </a>
+<a href=""> click </a>
 
 </body>
 </html>
